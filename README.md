@@ -22,5 +22,4 @@ A new Flutter project.
 </div><br>
 
 ## Description :
-```
-A Flutter counter app is a simple application that displays a numeric value on the screen, which can be incremented or decremented by tapping respective buttons. The app typically features a central counter display, along with buttons labeled "+" for interaction. The app's state management ensures that the counter value updates dynamically in response to user actions. It is a common introductory project for learning the basics of Flutter, including widget usage, state management, and UI building. The app is often built using a stateless or stateful widget structure.```
+```A Flutter counter app is a simple application that displays a numeric value on the screen, which can be incremented or decremented by tapping respective buttons. The app typically features a central counter display, along with buttons labeled "+" for interaction. The app's state management ensures that the counter value updates dynamically in response to user actions. It is a common introductory project for learning the basics of Flutter, including widget usage, state management, and UI building. The app is often built using a stateless or stateful widget structure.```
